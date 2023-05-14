@@ -61,6 +61,9 @@ const Details = () => {
           <AiOutlineSearch />
         </span>
       </Link>
+      <Link className="nav-home-link" to="/">
+        Or Go Home ^
+      </Link>
     </div>
   );
 };

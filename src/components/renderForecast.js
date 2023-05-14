@@ -16,7 +16,8 @@ const RenderForecast = (props) => {
 
   return (
     <div>
-      <h1 className="home-heading">Weather Forecast for your location</h1>
+      <h1 className="home-heading">Weather App</h1>
+      <h1 className="home-heading1">Weather Forecast for your location</h1>
       <p className="location-details">
         <span className="highlight">Location:</span> {name} ({country}
         <span className="highlight"> longitude:</span> {lon}

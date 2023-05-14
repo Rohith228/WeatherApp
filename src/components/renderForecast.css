@@ -4,6 +4,12 @@
   font-size: 40px;
 }
 
+.home-heading1 {
+  color: maroon;
+  font-family: "Roboto";
+  font-size: 30px;
+}
+
 .highlight {
   color: green;
   font-family: "Roboto";
