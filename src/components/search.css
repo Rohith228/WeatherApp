@@ -1,0 +1,60 @@
+.search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://em-content.zobj.net/socialmedia/google/40/sun-behind-cloud_26c5.png");
+  height: 100vh;
+}
+
+.search-heading {
+  font-size: 30px;
+  font-family: "Roboto";
+}
+
+.search-input {
+  height: 38px;
+  margin: 8px;
+  width: 300px;
+  outline: none;
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 6px;
+}
+
+::placeholder {
+  color: white;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  height: 30px;
+  width: 100px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: brown;
+}
+
+.details-nav-link {
+  text-decoration: none;
+  color: coral;
+  font-family: "Roboto";
+  font-weight: bold;
+  margin-top: 10px;
+  display: flex;
+}
+
+.success-para {
+  font-size: 10px;
+  color: green;
+}
+
+.info-icon {
+  color: black;
+  margin-left: 4px;
+}

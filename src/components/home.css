@@ -1,0 +1,9 @@
+.bg-container {
+  display: flex;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://em-content.zobj.net/socialmedia/google/40/sun-behind-cloud_26c5.png");
+}

@@ -1,0 +1,52 @@
+.home-heading {
+  color: maroon;
+  font-family: "Roboto";
+  font-size: 40px;
+}
+
+.highlight {
+  color: green;
+  font-family: "Roboto";
+}
+
+.list-item {
+  color: tomato;
+  margin-top: 8px;
+  font-family: "Roboto";
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.temp-image {
+  height: 21px;
+  width: 32px;
+  margin-left: 5px;
+}
+
+.location-details {
+  color: tomato;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.icons {
+  color: gray;
+  margin-left: 5px;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-family: "Roboto";
+}
